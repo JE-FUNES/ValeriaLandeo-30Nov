@@ -1,0 +1,397 @@
+{
+  "content": [
+    {
+      "id": "3951bf73",
+      "settings": { "jet_parallax_layout_list": [] },
+      "elements": [
+        {
+          "id": "50721bda",
+          "settings": {
+            "_column_size": 100,
+            "_inline_size": null
+          },
+          "elements": [],
+          "isInner": false,
+          "elType": "column"
+        }
+      ],
+      "isInner": false,
+      "elType": "section"
+    },
+    {
+      "id": "7cd65ad4",
+      "settings": {
+        "jet_parallax_layout_list": [],
+        "structure": "20",
+        "background_background": "classic",
+        "background_color": "#FFFFFF"
+      },
+      "elements": [
+        {
+          "id": "57105495",
+          "settings": { "_column_size": 50, "_inline_size": 60 },
+          "elements": [
+            {
+              "id": "d397fcb",
+              "settings": {
+                "title": "\u00a1 Espera !",
+                "header_size": "h1",
+                "align": "center",
+                "title_color": "#9B0404",
+                "typography_typography": "custom",
+                "typography_font_family": "Aclonica",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 69,
+                  "sizes": []
+                },
+                "_element_width_none": "initial",
+                "_element_custom_width_none": { "size": 289 }
+              },
+              "elements": [],
+              "isInner": false,
+              "widgetType": "heading",
+              "elType": "widget"
+            },
+            {
+              "id": "ba3407d",
+              "settings": {
+                "editor": "<h5 style=\"text-align: center;\">A\u00fan te hace falta<b> 1 PASO </b>para asegurar <br />tu lugar en este\u00a0evento\u2026.</h5>"
+              },
+              "elements": [],
+              "isInner": false,
+              "widgetType": "text-editor",
+              "elType": "widget"
+            },
+            {
+              "id": "59f8d119",
+              "settings": {
+                "editor": "<h6 style=\"text-align: center;\"><span style=\"color: #993300;\"><b>PARA COMPLETAR TU REGISTRO ES S\u00daPER IMPORTANTE QUE TE UNAS AL GRUPO OFICIAL DE ESTE ENTRENAMIENTO</b></span></h6>"
+              },
+              "elements": [],
+              "isInner": false,
+              "widgetType": "text-editor",
+              "elType": "widget"
+            },
+            {
+              "id": "3c8bf334",
+              "settings": {
+                "editor": "<h6 style=\"text-align: center;\"><span style=\"color: #666699;\"><em>En este grupo recibir\u00e1s todos los detalles del entrenamiento y adem\u00e1s obtendr\u00e1s el acceso a la clase en cuanto comience.</em></span></h6>"
+              },
+              "elements": [],
+              "isInner": false,
+              "widgetType": "text-editor",
+              "elType": "widget"
+            }
+          ],
+          "isInner": false,
+          "elType": "column"
+        },
+        {
+          "id": "558e460f",
+          "settings": { "_column_size": 50, "_inline_size": 40 },
+          "elements": [
+            {
+              "id": "460c6e8",
+              "settings": {
+                "image": {
+                  "url": "https://respiralavida.com/wp-content/uploads/2023/11/imagen-logo.jpg",
+                  "id": 8874,
+                  "size": "",
+                  "alt": "",
+                  "source": "library"
+                },
+                "_element_width_none": "initial",
+                "_element_custom_width_none": { "size": 448 }
+              },
+              "elements": [],
+              "isInner": false,
+              "widgetType": "image",
+              "elType": "widget"
+            }
+          ],
+          "isInner": false,
+          "elType": "column"
+        }
+      ],
+      "isInner": false,
+      "elType": "section"
+    },
+    {
+      "id": "224df10d",
+      "settings": { "jet_parallax_layout_list": [] },
+      "elements": [
+        {
+          "id": "54a5a345",
+          "settings": { "_column_size": 100, "_inline_size": null },
+          "elements": [
+            {
+              "id": "6c46dcd4",
+              "settings": {
+                "text": "\u00a1 \u00danete al Grupo de Whatsapp !",
+                "link": {
+                  "url": "https://www.wa.me/completar",
+                  "is_external": "",
+                  "nofollow": "",
+                  "custom_attributes": ""
+                },
+                "align": "center",
+                "selected_icon": {
+                  "value": "fab fa-whatsapp",
+                  "library": "fa-brands"
+                },
+                "icon_indent": { "unit": "px", "size": 10, "sizes": [] },
+                "typography_typography": "custom",
+                "typography_font_family": "ABeeZee",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 34,
+                  "sizes": []
+                },
+                "typography_font_weight": "normal",
+                "text_shadow_text_shadow_type": "yes",
+                "text_shadow_text_shadow": {
+                  "horizontal": 0,
+                  "vertical": 0,
+                  "blur": 0,
+                  "color": ""
+                },
+                "background_color": "#10A23B",
+                "hover_color": "#090303",
+                "hover_animation": "pulse-grow",
+                "border_radius": {
+                  "unit": "px",
+                  "top": "15",
+                  "right": "15",
+                  "bottom": "15",
+                  "left": "15",
+                  "isLinked": true
+                },
+                "button_box_shadow_box_shadow_type": "yes",
+                "button_box_shadow_box_shadow": {
+                  "horizontal": 7,
+                  "vertical": 11,
+                  "blur": 10,
+                  "spread": 0,
+                  "color": "rgba(0, 0, 0, 0.67)"
+                }
+              },
+              "elements": [],
+              "isInner": false,
+              "widgetType": "button",
+              "elType": "widget"
+            }
+          ],
+          "isInner": false,
+          "elType": "column"
+        }
+      ],
+      "isInner": false,
+      "elType": "section"
+    },
+    {
+      "id": "7cb3a2a4",
+      "settings": { "jet_parallax_layout_list": [] },
+      "elements": [
+        {
+          "id": "69b279b5",
+          "settings": {
+            "_column_size": 100,
+            "_inline_size": null,
+            "align": "center"
+          },
+          "elements": [
+            {
+              "id": "adc4c33",
+              "settings": {
+                "due_date": "2023-11-30 19:00",
+                "custom_labels": "yes",
+                "label_days": "D\u00cdAS",
+                "label_hours": "HORAS",
+                "label_minutes": "MINUTOS",
+                "label_seconds": "SEGUNDOS",
+                "expire_actions": ["hide", "message"],
+                "message_after_expire": "Este evento ya ha finalizado.",
+                "container_width": { "unit": "%", "size": 78, "sizes": [] },
+                "box_spacing": { "unit": "px", "size": 0, "sizes": [] },
+                "digits_color": "#5E6995",
+                "digits_typography_typography": "custom",
+                "label_color": "#5E6995",
+                "label_typography_typography": "custom",
+                "label_typography_font_size": {
+                  "unit": "px",
+                  "size": 11,
+                  "sizes": []
+                },
+                "align": "center",
+                "text_color": "#5E6995",
+                "_element_width": "initial",
+                "_element_custom_width": { "unit": "%", "size": 57.232 },
+                "_element_vertical_align": "center"
+              },
+              "elements": [],
+              "isInner": false,
+              "widgetType": "countdown",
+              "elType": "widget"
+            }
+          ],
+          "isInner": false,
+          "elType": "column"
+        }
+      ],
+      "isInner": false,
+      "elType": "section"
+    },
+    {
+      "id": "32a6847a",
+      "settings": { "jet_parallax_layout_list": [] },
+      "elements": [
+        {
+          "id": "6e82e2e6",
+          "settings": { "_column_size": 100, "_inline_size": null },
+          "elements": [
+            {
+              "id": "7bdef0b7",
+              "settings": {
+                "image": {
+                  "url": "https://respiralavida.com/wp-content/uploads/2023/11/DSC05983.jpg",
+                  "id": 8836,
+                  "size": "",
+                  "alt": "",
+                  "source": "library"
+                },
+                "_margin": {
+                  "unit": "px",
+                  "top": "-17",
+                  "right": "0",
+                  "bottom": "0",
+                  "left": "0",
+                  "isLinked": false
+                },
+                "width": { "unit": "%", "size": 100, "sizes": [] },
+                "space": { "unit": "%", "size": 100, "sizes": [] }
+              },
+              "elements": [],
+              "isInner": false,
+              "widgetType": "image",
+              "elType": "widget"
+            }
+          ],
+          "isInner": false,
+          "elType": "column"
+        }
+      ],
+      "isInner": false,
+      "elType": "section"
+    },
+    {
+      "id": "2b94c437",
+      "settings": { "jet_parallax_layout_list": [] },
+      "elements": [
+        {
+          "id": "6f252c42",
+          "settings": { "_column_size": 100, "_inline_size": null },
+          "elements": [
+            {
+              "id": "41959f55",
+              "settings": {
+                "title": "\u00bfEst\u00e1s teniendo problemas al ingresar al grupo de WhatsApp?",
+                "header_size": "h3",
+                "align": "center",
+                "title_color": "#836E09"
+              },
+              "elements": [],
+              "isInner": false,
+              "widgetType": "heading",
+              "elType": "widget"
+            }
+          ],
+          "isInner": false,
+          "elType": "column"
+        }
+      ],
+      "isInner": false,
+      "elType": "section"
+    },
+    {
+      "id": "91b2ba6",
+      "settings": { "jet_parallax_layout_list": [] },
+      "elements": [
+        {
+          "id": "1e17ab41",
+          "settings": { "_column_size": 100, "_inline_size": null },
+          "elements": [
+            {
+              "id": "24c8789f",
+              "settings": {
+                "text": "CONTACTAR A SOPORTE",
+                "link": {
+                  "url": "https://www.wa.me/completar",
+                  "is_external": "",
+                  "nofollow": "",
+                  "custom_attributes": ""
+                },
+                "align": "center",
+                "selected_icon": {
+                  "value": "fas fa-hands-helping",
+                  "library": "fa-solid"
+                },
+                "icon_indent": { "unit": "px", "size": 14, "sizes": [] },
+                "button_background_hover_color": "#196375",
+                "border_radius": {
+                  "unit": "px",
+                  "top": "0",
+                  "right": "0",
+                  "bottom": "0",
+                  "left": "0",
+                  "isLinked": true
+                },
+                "button_box_shadow_box_shadow_type": "yes",
+                "button_box_shadow_box_shadow": {
+                  "horizontal": 6,
+                  "vertical": 7,
+                  "blur": 10,
+                  "spread": 0,
+                  "color": "rgba(0, 0, 0, 0.74)"
+                }
+              },
+              "elements": [],
+              "isInner": false,
+              "widgetType": "button",
+              "elType": "widget"
+            },
+            {
+              "id": "3151868f",
+              "settings": {
+                "title": "Todos los derechos reservados - Respira la vida",
+                "header_size": "h6",
+                "align": "center",
+                "title_color": "#02010175",
+                "_margin": {
+                  "unit": "px",
+                  "top": "48",
+                  "right": "0",
+                  "bottom": "0",
+                  "left": "0",
+                  "isLinked": false
+                }
+              },
+              "elements": [],
+              "isInner": false,
+              "widgetType": "heading",
+              "elType": "widget"
+            }
+          ],
+          "isInner": false,
+          "elType": "column"
+        }
+      ],
+      "isInner": false,
+      "elType": "section"
+    }
+  ],
+  "page_settings": [],
+  "version": "0.4",
+  "title": "LandingGracias",
+  "type": "page"
+}
